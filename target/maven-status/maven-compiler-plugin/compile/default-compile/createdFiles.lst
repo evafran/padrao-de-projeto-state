@@ -1,0 +1,7 @@
+com/mycompany/padroesstate/CaixaLivre.class
+com/mycompany/padroesstate/PadroesState.class
+com/mycompany/padroesstate/CaixaEletronico.class
+com/mycompany/padroesstate/State.class
+com/mycompany/padroesstate/CaixaEmUso.class
+com/mycompany/padroesstate/ConsertarCaixa.class
+com/mycompany/padroesstate/CaixaEmManutencao.class
